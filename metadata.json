@@ -1,0 +1,6 @@
+{
+  "name": "WorldConnect - Global Dating & Cultural Exchange",
+  "description": "Next-generation international mobile dating and social discovery app with AI translation, MBTI compatibility, and verified global connections.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
